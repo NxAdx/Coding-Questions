@@ -8,7 +8,7 @@ This repository contains a collection of coding questions sourced from [PrepInst
 
 ### Very Basic
 
-1. Positive or Negative number
+1. [Positive or Negative number](https://github.com/NxAdx/Coding-Questions/blob/main/pos_Nega_1.java)
 2. Even or Odd number
 3. Sum of First N Natural numbers
 4. Sum of N natural numbers
