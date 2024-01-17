@@ -1,7 +1,8 @@
-##100+ Coding Questions
+## 100+ Coding Questions
+
 https://prepinsta.com/top-100-codes/
 
-###Very Basic
+### Very Basic
 
 1. Positive or Negative number
 2. Even or Odd number
@@ -32,7 +33,7 @@ https://prepinsta.com/top-100-codes/
 27. Abundant number
 28. Friendly pair
 
-###Working with Numbers
+### Working with Numbers
 
 29. Highest Common Factor (HCF)
 30. Lowest Common Multiple (LCM)
@@ -61,7 +62,7 @@ https://prepinsta.com/top-100-codes/
 53. Finding the number of integers which have exactly x divisors
 54. Finding Roots of a quadratic equation
 
-###Codes for Recursion
+### Codes for Recursion
 
 55. Power of a Number
 56. Prime Number
@@ -83,7 +84,7 @@ https://prepinsta.com/top-100-codes/
 72. Given a set of positive integers, find all its subsets
 73. Given a string s, remove all its adjacent duplicate characters recursively
 
-###Important Codes related to Arrays
+### Important Codes related to Arrays
 
 74. Find Largest element in an array
 75. Find Smallest Element in an Array
@@ -118,7 +119,7 @@ https://prepinsta.com/top-100-codes/
 104.  Finding Circular rotation of an array by K positions
 105.  Balanced Parenthesis Problem
 
-###Operations on Strings
+### Operations on Strings
 
 129. Check whether a character is a vowel or consonant
 130. Check whether a character is an alphabet or not
@@ -143,7 +144,7 @@ https://prepinsta.com/top-100-codes/
 149. Check if two strings match where one string contains wildcard characters
 150. Print all permutations of a given string in lexicographically sorted order
 
-##Advanced Codes related to Arrays
+### Advanced Codes related to Arrays
 
 151. Given an array which consists of only 0, 1, and 2. Sort the array without using any algorithm
 152. Find the "Kth" max and min element of an array
@@ -175,7 +176,7 @@ https://prepinsta.com/top-100-codes/
 178. Median of 2 sorted arrays of equal size
 179. Median of 2 sorted arrays of different size
 
-##Codes related to Matrix
+### Codes related to Matrix
 
 180. Spiral traversal on a Matrix
 181. Search an element in a matrix
