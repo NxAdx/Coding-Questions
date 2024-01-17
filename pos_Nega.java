@@ -6,11 +6,6 @@
 // N = 0 then, number is Zero.
 // To solve the above problem we write a Java code using three different methods.
 
-// Method 1: Using Brute Force
-// Method 2: Using Nested if-else Statements
-// Method 3: Using Ternary Operators
-// The Above methods are discussed in depth in the sections below.
-
 import java.util.Scanner;
 
 class pos_Nega {
@@ -19,13 +14,8 @@ class pos_Nega {
         int N;
         System.out.print("Enter the number: ");
         N = sc.nextInt();
-        if (N > 0) {
-            System.out.println("Number is Positive");
-        } else if (N == 0) {
-            System.out.println("Number is Zero");
-        } else {
-            System.out.println("Number is Negative");
-        }
+        String Value = N > 0 ? "Positive" : N == 0 ? "zero" : "Negative";
+        System.out.println("Number is " + Value);
 
     }
 
