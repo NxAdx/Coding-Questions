@@ -1,7 +1,9 @@
-// Check Whether a Number is Even or Odd in Java
-// Given an integer input the objective is to write a Java code to Check Whether a Number is Even or Odd. 
-// To do so the main idea is to divide the number by 2 and check if it’s divisible or not. 
-// It’s an Even number is it’s perfectly divisible by 2 or an Odd number otherwise.
+// Given an integer input num, the objective is to write a code to Check Whether a Number is Even or Odd in Java Language. To do so we check if the number is divisible by 2 or not, it’s Even if it’s divisible otherwise Odd.
+
+// Check Whether a number is Even or Odd using Java 
+// Example 
+// Input : num = 11
+// Output : Odd
 
 import java.util.Scanner;
 
