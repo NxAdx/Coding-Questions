@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-class pos_Nega {
+class pos_Nega_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N;

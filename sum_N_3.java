@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class sum_N {
+public class sum_N_3{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n, sum=0;
