@@ -1,6 +1,10 @@
-## 100+ Coding Questions
+# 100+ Coding Questions
 
-https://prepinsta.com/top-100-codes/
+Explore a curated list of over 100+ coding questions to enhance your programming skills.
+
+## Overview
+
+This repository contains a collection of coding questions sourced from [PrepInsta](https://prepinsta.com/top-100-codes/). These questions cover a variety of topics and difficulty levels to help you practice and improve your problem-solving abilities.
 
 ### Very Basic
 
