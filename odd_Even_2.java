@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class odd_Even {
+public class odd_Even_2 {
     Scanner sc = new Scanner(System.in);
     int num;
     num=sc.nextInt();
