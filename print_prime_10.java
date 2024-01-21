@@ -14,12 +14,14 @@ public class print_prime_10 {
         int in1,in2,n;
         in1 = sc.nextInt();
         in2 = sc.nextInt();
-        n = in1;
-        for(int i=in1;i<=in2;i++){
-            if(n%i!=0){
-                System.out.print(n +" ");
+        n=in1;
+        while(in1<=in2){
+            if(n%in1!=0){
+                System.out.println(n);
+                break;
             }
-            n=n+1;
+            in1++;
+
         }
-    }   
+   } 
 }
